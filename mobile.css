@@ -126,9 +126,9 @@
     
     #course .course-container {
       width: 100%;
+      min-height: 0;
       margin: 0 0 8px 0;
       align-self: center;
-      min-height: 0;
     }
 
     #course .course-container .text-container {
